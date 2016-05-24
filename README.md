@@ -1,4 +1,5 @@
-## We Should Avoid Repeating and Unchallenging Coding. Say No to this boring work, Let's generate the Code.
+## Fuck Off Boring Work
+We Should Avoid Repeating and Unchallenging Coding. Say No to this boring work, Let's generate the Code.
 
 ## Tool List
 
